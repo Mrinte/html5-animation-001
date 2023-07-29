@@ -8,4 +8,4 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=element-web&metric=bugs)](https://sonarcloud.io/summary/new_code?id=element-web)
 
 # HTML5动画001
-[<img src="https://translate.element.io/widgets/element-web/-/multi-auto.svg" alt="translationsstatus" width="340">](https://translate.element.io/engage/element-web/?utm_source=widget)
+[<img src="git.api-code.com/git/Mrinte/html5-animation-001/ui.png" alt="translationsstatus" width="100%">](git.api-code.com/git/Mrinte/html5-animation-001/ui.png)
